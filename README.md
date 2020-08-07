@@ -7,15 +7,15 @@ I have also implemented in an infinitely growing array and not neglecting what i
 
 I have also made the UI which will first ask you to fill these:
 
-![First Screen](https://github.com/PraphulJain/game_of_life/tree/master/imgs/1.png)
+![First Screen](imgs/1.png)
 
 Then you can fill the your input grid which I have made through JCheckBox:
 
-![Second Screen](https://github.com/PraphulJain/game_of_life/tree/master/imgs/2_1.png)
+![Second Screen](imgs/2_1.png)
 
 Here I have basically given an infinitely growing input and then just click on submit and watch as the magic happens.
 
-![Output Screen](https://github.com/PraphulJain/game_of_life/tree/master/imgs/3.png)
+![Output Screen](imgs/3.png)
 
 I have used JPanel grids so if the display screen is more than 80 rows it starts lagging. Although this level of grids are enough for having fun.
 You can try your own patterns or try out the patterns from wikipedia. Or you can obviously improve it.
