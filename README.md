@@ -6,11 +6,11 @@ If you don't know what game of life is and you are less than 20 then you are a j
 
 I have also made the UI which will first ask you to fill these:
 
-![](https://github.com/PraphulJain/game_of_life/tree/master/imgs/1.png)
+![First Screen](https://github.com/PraphulJain/game_of_life/tree/master/imgs/1.png)
 
 Then you can fill the your input grid which I have made through JCheckBox:
 
-![](https://github.com/PraphulJain/game_of_life/tree/master/imgs/2_1.png)
+![Second Screen](https://github.com/PraphulJain/game_of_life/tree/master/imgs/2_1.png)
 
 Here I have basically given an infinitely growing input and then just click on submit and watch as the magic happens.
 
